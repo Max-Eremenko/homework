@@ -6,3 +6,5 @@ c = a + b
 
 print(c)
 print(my_list)
+
+new_list = ['bob', 'sam', 'dean']
